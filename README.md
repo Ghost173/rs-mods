@@ -1,5 +1,5 @@
-# rh-mods
-rh sd promod cod4
+# rs-mods
+rs sd promod cod4
 
 About Developer's
 Developer's: CWP-Razor, jEENN, Night
