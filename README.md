@@ -16,4 +16,4 @@ KD Ratio
 Anti camp script
 
 
-https://imgur.com/a/Cj3RPxG  (imgae) 
+![screenshot](uPcY8ow.jpg)
